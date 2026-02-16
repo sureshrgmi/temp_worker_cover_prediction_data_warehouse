@@ -1,6 +1,6 @@
 #### Task Background
 
-The main requirement of this task was to create a Data Warehouse solution along with a Machine Learning implementation based on a certain use case scenario. The deliverables of this task were a Dara Warehouse (Designed using Star Schema), SQL queries to create the warehouse system, a Python script for the machine learning implementation and a list of reporting queries based on the requirements.
+The main requirement for this task was to create a Data Warehouse solution and a Machine Learning implementation for a specific use case. The deliverables for this task included a Data Warehouse (Designed using a Star Schema), SQL queries to build the warehouse system, a Python script for the machine learning implementation, and a list of reporting queries based on the requirements.
 
 
 
